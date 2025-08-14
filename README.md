@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sabal77
-- 👀 I’m interested in AI 
-- 🌱 I’m currently learning python, Javascript
+- 👀 I’m interested in AI, Convex Optimizations, Variational Analysis, Financial Mathematics
+- 🌱 I’m currently learning Stocchastic process, RUST, deep Learning
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me https://www.linkedin.com/in/sabal-humagain-847320207/
 
